@@ -8,7 +8,7 @@ const covid19ImpactEstimator = (data) => {
     let daysValue = data.timeToElapse;
     let dollarsInFlight;
     let sDollarsInFlight;
-    if (data.periodType === 'weeks') {
+    if yarn (data.periodType === 'weeks') {
         daysValue *= 7;
       }
       if (data.periodType === 'months') {
