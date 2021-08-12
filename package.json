@@ -326,7 +326,7 @@
     "path-type": "^2.0.0",
     "path-key": "^2.0.1",
     "path-is-absolute": "^1.0.1",
-    "path-parse": "^1.0.6",
+    "path-parse": "^1.0.7",
     "performance-now": "^2.1.0",
     "picomatch": "^2.2.2",
     "pascalcase": "^0.1.1",
