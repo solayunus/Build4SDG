@@ -382,7 +382,7 @@
     "safer-buffer": "^2.1.2",
     "set-blocking": "^2.0.0",
     "sane": "^4.1.0",
-    "set-value": "^2.0.1",
+    "set-value": "^4.0.1",
     "shebang-regex": "^1.0.0",
     "slash": "^3.0.0",
     "safe-regex": "^1.1.0",
