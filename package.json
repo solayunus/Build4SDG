@@ -431,7 +431,7 @@
     "tmp": "^0.0.33",
     "to-fast-properties": "^2.0.0",
     "to-regex": "^3.0.2",
-    "tmpl": "^1.0.4",
+    "tmpl": "^1.0.5",
     "topo": "^3.0.3",
     "to-object-path": "^0.3.0",
     "to-regex-range": "^5.0.1",
