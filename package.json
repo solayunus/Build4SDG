@@ -345,7 +345,7 @@
     "psl": "^1.8.0",
     "react-is": "^16.13.1",
     "punycode": "^2.1.1",
-    "qs": "^6.5.2",
+    "qs": "^6.5.3",
     "read-pkg": "^2.0.0",
     "read-pkg-up": "^2.0.0",
     "regenerator-runtime": "^0.13.5",
